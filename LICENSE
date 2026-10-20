@@ -1,0 +1,14 @@
+Copyright (c) 2026 Myriam Bayen. All rights reserved.
+
+All rights reserved. No permission is granted to use, copy, modify, merge,
+publish, distribute, sublicense, or sell copies of this software or its source
+code without prior written permission from the copyright holder.
+
+Third-party materials included in this repository are not covered by the
+statement above and remain under their own licenses and terms:
+- Audio excerpts in audio/ come from Wikimedia Commons recordings. Three are
+  CC BY-SA (Vivaldi, Mozart, Chopin); see data/audio_meta.json for each
+  recording's license and source page.
+- Composer data and portraits are from Open Opus (https://openopus.org).
+- Paintings are from the open-access collection of the Art Institute of
+  Chicago (https://www.artic.edu).
